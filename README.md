@@ -8,9 +8,9 @@ I am passionate about building technology that can offset the rise of AI disrupt
 
 In a sea of AI agents, Vibe coders and possibly AGI it's easy for people to spread negativity and spread doom snd this may cause the next generation to try less and feel helpless. I want to be the guy making sure that learning doesn't die and the spirits of those who may be drowninig in the negativity can see the upside of what's happening.
 
-Big anime fan: One Piece, Hunter X Hunter and Naruto in that order are my top 3
-Bigger NBA fan: Miami Heat fan since 06'
-Biggest fan of people who persevere throught the tough times and make things happen
+- Big anime fan: One Piece, Hunter X Hunter and Naruto in that order are my top 3
+- Bigger NBA fan: Miami Heat fan since 06'
+- Biggest fan of people who persevere throught the tough times and make things happen
 
 <!--
 **nasbrown/nasbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
