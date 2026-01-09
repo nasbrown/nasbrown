@@ -1,6 +1,8 @@
 ## Wassup!✊🏽
 
-Welcome to the profile! Hope all of my rocket science-level code intrigues you. All my repositories were coded while completing 100 pushups, 100 pullups and 1000 squats in a handstand. I take pride in making sure my coding skills are **STRONG**, efficient and simple to understand.
+Welcome to the profile! Hope all of my rocket science-level code intrigues you! 
+
+All my repositories were coded while completing 100 pushups, 100 pullups and 1000 squats in a handstand. I take pride in making sure my coding skills are **STRONG**, efficient and simple to understand.
 
 <!--
 **nasbrown/nasbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
